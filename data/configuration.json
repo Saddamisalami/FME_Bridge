@@ -1,0 +1,15 @@
+{
+  "i18n": "de",
+  "display_time": true,
+  "display_landscape": true,
+  "display_theme": "color",
+  "display_level": 100,
+  "debug_mode": false,
+  "giessen_mode": true,
+  "mesh_prefix": "FMEMesh",
+  "mesh_password": "somethingSneaky",
+  "mesh_port": 5555,
+  "mesh_channel": 6,
+  "mesh_containsRoot": true,
+  "mesh_isRoot": false
+}
